@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name = "HJQPublicFramework"
   s.version = "0.0.1" #切记要和Git提交的版本号一致
   s.summary = "Test for HJQPublicFramework."
-  s.description  = "随便写个描述我也不知道要写什么好还是提示描述比摘要短我多写长一点啊啊啊啊啊啊啊啊啊啊啊" #这里的描述必须比上面的summary长，否则报警告
+  s.description  = "随便写点什么，这里的描述必须比上面的summary长，否则报警告，不行你可以试试" #这里的描述必须比上面的summary长，否则报警告
   s.homepage = "https://github.com/Hokingtion" #填写git主页地址
   #特别重要，这就是上面提到的新建Git项目的时候，初始化需要选择的LICENSE，没有这个提交会报错
   s.license = { :type => "MIT", :file => "LICENSE" }
