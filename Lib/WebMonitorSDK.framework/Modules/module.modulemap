@@ -1,0 +1,6 @@
+framework module WebMonitorSDK {
+  umbrella header "WebMonitorSDK.h"
+
+  export *
+  module * { export * }
+}
